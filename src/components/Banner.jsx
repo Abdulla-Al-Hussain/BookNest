@@ -4,7 +4,7 @@ import banner from "../../public/Banner.png"
 function Banner() {
   return (
     <>
-    <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row'>
+    <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10'>
       <div className='w-full order-2 md:order-1 md:w-1/2 mt-12 md:mt-44'>
       <div className='space-y-10'>
       <h1 className='text-4xl font-bold'>Welcome to BookNest, your cozy corner for discovering {""} <span className='text-pink-700'>the perfect book!</span></h1>
@@ -29,7 +29,7 @@ function Banner() {
       {/* Submit button */}
       <button className="bg-black text-white px-3 py-2 rounded-md hover:bg-slate-800 duration-300 cursor-pointer mt-6">Secondary</button>
       </div>  
-      <div className='order-1 w-full md:w-1/2 mt-12 md:mt-32'>
+      <div className='order-1 w-full md:w-1/2 mt-12 md:mt-36'>
      <img src={banner} alt=""  className='w-92 h-92' />
       </div>
       </div>
