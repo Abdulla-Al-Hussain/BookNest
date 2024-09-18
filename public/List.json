@@ -1,21 +1,21 @@
 [
     {
         "id":1,
-        "name":"Story Book",
+        "name":"The Island of Adventure",
         "title":"Adventures Beyond the Stars: The Journey of a Brave Explorer",
         "price":0,
-        "catagory":"Free",
+        "category":"Free",
         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/TheIslandOfAdventure.jpg/220px-TheIslandOfAdventure.jpg"
     },
 
     
     {
         "id":2,
-        "name":"Story Book",
-        "title":"Adventures Beyond the Stars: The Journey of a Brave Explorer",
+        "name":"Game Of Thrones",
+        "title": "When you play the game of thrones, you win or you die.",
         "price":0,
-        "catagory":"Free",
-        "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/TheIslandOfAdventure.jpg/220px-TheIslandOfAdventure.jpg"
+        "category":"Free",
+        "image":"https://files.ekmcdn.com/allwallpapers/images/game-of-throne-movie-poster-61x91-5cm-new-sealed-jon-snow-32756-p.jpg"
     },
 
 
@@ -25,7 +25,7 @@
         "name":"Music Book",
         "title":"Adventures Beyond the Stars: The Journey of a Brave Explorer",
         "price":100,
-        "catagory":"Music",
+        "category":"Music",
         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/TheIslandOfAdventure.jpg/220px-TheIslandOfAdventure.jpg"
     },
 
@@ -36,7 +36,7 @@
         "name":"Food Book",
         "title":"Adventures Beyond the Stars: The Journey of a Brave Explorer",
         "price":200,
-        "catagory":"Food",
+        "category":"Food",
         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/TheIslandOfAdventure.jpg/220px-TheIslandOfAdventure.jpg"
     },
 
@@ -45,7 +45,7 @@
         "name":"Sports Book",
         "title":"Adventures Beyond the Stars: The Journey of a Brave Explorer",
         "price":50,
-        "catagory":"Sports",
+        "category":"Sports",
         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/TheIslandOfAdventure.jpg/220px-TheIslandOfAdventure.jpg"
     },
 
@@ -55,18 +55,18 @@
         "name":"Comedy Book",
         "title":"Adventures Beyond the Stars: The Journey of a Brave Explorer",
         "price":20,
-        "catagory":"Entainment",
+        "category":"Entertainment",
         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/TheIslandOfAdventure.jpg/220px-TheIslandOfAdventure.jpg"
     },
 
     
     {
         "id":7,
-        "name":"Story Book",
-        "title":"Adventures Beyond the Stars: The Journey of a Brave Explorer",
+        "name":"The Last Kingdom",
+        "title":"A kingdom is not built on land alone, but on the strength of its people.",
         "price":0,
-        "catagory":"Free",
-        "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/TheIslandOfAdventure.jpg/220px-TheIslandOfAdventure.jpg"
+        "category":"Free",
+        "image":"https://cdn.kobo.com/book-images/a72115de-63c9-4d7f-aa2e-0f40d68a480b/1200/1200/False/the-last-kingdom.jpg"
     },
 
 
@@ -76,7 +76,7 @@
         "name":"Story Book",
         "title":"Adventures Beyond the Stars: The Journey of a Brave Explorer",
         "price":0,
-        "catagory":"Free",
+        "category":"Free",
         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/TheIslandOfAdventure.jpg/220px-TheIslandOfAdventure.jpg"
     },
 
@@ -87,7 +87,7 @@
         "name":"Story Book",
         "title":"Adventures Beyond the Stars: The Journey of a Brave Explorer",
         "price":0,
-        "catagory":"Free",
+        "category":"Free",
         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/TheIslandOfAdventure.jpg/220px-TheIslandOfAdventure.jpg"
     },
 
@@ -98,7 +98,7 @@
         "name":"Story Book",
         "title":"Adventures Beyond the Stars: The Journey of a Brave Explorer",
         "price":0,
-        "catagory":"Free",
+        "category":"Free",
         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/TheIslandOfAdventure.jpg/220px-TheIslandOfAdventure.jpg"
     },
 
@@ -109,7 +109,7 @@
         "name":"Story Book",
         "title":"Adventures Beyond the Stars: The Journey of a Brave Explorer",
         "price":0,
-        "catagory":"Free",
+        "category":"Free",
         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/TheIslandOfAdventure.jpg/220px-TheIslandOfAdventure.jpg"
     }
     
