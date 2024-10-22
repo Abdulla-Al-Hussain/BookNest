@@ -7,7 +7,7 @@ function Banner() {
     <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10'>
       <div className='w-full order-2 md:order-1 md:w-1/2 mt-12 md:mt-44'>
       <div className='space-y-10'>
-      <h1 className='text-4xl font-bold'>Welcome to BookNest, your cozy corner for discovering {""} <span className='text-pink-700'>the perfect book!</span></h1>
+      <h1 className='text-4xl font-bold'>Welcome to BookNest, your cozy corner for discovering {""} <span className='text-purple-600'>the perfect book!</span></h1>
        <p className='text-xl '>
        Welcome to BookNest, your go-to online bookshop for all things reading. Explore a wide selection of books, from classics to new releases, and find your next favorite read. Dive into our nest of stories today!
        </p>

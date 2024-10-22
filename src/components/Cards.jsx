@@ -5,8 +5,8 @@ function Cards({ item }) {
   return (
     <>
     {/* Creating Cards */}
-    <div className='mt-8 mb-8 '>
-    <div className="card bg-base-100  w-96 shadow-xl">
+    <div className='mt-8 mb-8 p-3 '>
+    <div className="card bg-base-100  w-92 shadow-xl">
   <div>
     <figure >
     <img 

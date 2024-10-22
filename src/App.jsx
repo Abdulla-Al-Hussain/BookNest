@@ -1,17 +1,17 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Banner from "./components/Banner";
-import FreeBoxs from "./components/FreeBoxs";
-import Footer from "./components/Footer";
+import Home from "./Home/Home";
+import { Routes, Route } from "react-router-dom";
+import Courses from "./Courses/Courses";
 
-const App =() => {
+const App = () => {
   return (
     <>
-    <Navbar/>
-    <Banner/>
-    <FreeBoxs/>
-    <Footer/>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/course" element={<Courses />} />
+      </Routes>
     </>
-  )
-}
-export default App 
+  );
+};
+
+export default App;
